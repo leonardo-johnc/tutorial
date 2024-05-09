@@ -223,6 +223,10 @@ textarea {
 	resize: vertical;
 }
 
+#photo1{
+	border-radius:9px;
+}
+
 
 
 /* =============================================
